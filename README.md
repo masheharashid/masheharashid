@@ -1,8 +1,8 @@
 ## 👋🏽 Hi, I'm Masheha!
 👾 Aspiring Machine Learning Engineer<br>
 👩🏽‍💻 Pursuing a Master's in Artificial Intelligence at Long Island University<br>
-🪄 Passionate about exploring the ethical usage of AI<br>
-📝 Currently learning about data mining and computer vision
+🪄 Passionate about exploring the use of computer vision in biotech<br>
+📝 Currently learning about semantic segmentation and automatic speech recognition
 
 ## 💻 Technical Skills:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
