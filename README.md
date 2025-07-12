@@ -1,6 +1,6 @@
 ## 👋🏽 Hi, I'm Masheha!
 👾 Aspiring Machine Learning Engineer<br>
-👩🏽‍💻 Pursuing a Master's Degree in Artificial Intelligence at Long Island University<br>
+👩🏽‍💻 Master's Degree in Artificial Intelligence<br>
 🪄 Passionate about exploring the use of computer vision in biotech<br>
 📝 Currently learning about semantic segmentation and neuroAI
 
